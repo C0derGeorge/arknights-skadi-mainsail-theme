@@ -1,5 +1,5 @@
 # Skadi the corrupting heart theme for Mainsail
-an anime theme for mainsail w̶i̶t̶h̶ ̶t̶o̶n̶s̶ ̶o̶f̶ ̶b̶u̶g̶s̶
+an anime theme for mainsail w̶i̶t̶h̶ ̶t̶o̶n̶s̶ ̶o̶f̶ ̶b̶u̶g̶s̶<br>
 (Actually she's a game character<br>
 # Installation
 see [offcial guide](https://docs.mainsail.xyz/features/theming/prepare)<br><br>
