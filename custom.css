@@ -1,0 +1,28 @@
+.theme--dark.v-app-bar.v-toolbar.v-sheet {
+    background-color: #4C6373;      /*topbar color*/
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 auto;
+    margin: -12px;
+    opacity: 0.9;                
+}
+.v-navigation-drawer__image {
+    border-radius: inherit;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    contain: strict;
+    width: 100%;
+    opacity: 0.5;                   /*opacity of sidebar background*/
+}
+.v-sheet.v-card {
+    border-radius: 6px;             
+}
+.active-nav-item[data-v-c6e0628a] {
+    border-right: 4px solid #b5e1ff;
+}
